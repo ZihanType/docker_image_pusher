@@ -1,1 +1,2 @@
 --platform=linux/arm64 mysql:8.4.0
+--platform=linux/arm64 redis:7.2.5-alpine
