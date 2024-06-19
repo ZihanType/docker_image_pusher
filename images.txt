@@ -1,2 +1,1 @@
-mysql:8.4.0
-arm64v8/mysql:8.4.0
+--platform=linux/arm64 mysql:8.4.0
